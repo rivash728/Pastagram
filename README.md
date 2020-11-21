@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Instragram_Demonstration.gif'/>
+<img src='IG_Clone_Demo.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
