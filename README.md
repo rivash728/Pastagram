@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instaClone2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='IG_Clone_Demo_02.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
